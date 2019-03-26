@@ -1,2 +1,2 @@
 # estudo_jquery
-Aprendendo algumas funcionalidades  do jquery
+Aprendendo a manipular estruturas html e css utilizando algumas funcionalidades  do jquery.
